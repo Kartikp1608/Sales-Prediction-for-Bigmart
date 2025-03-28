@@ -3,6 +3,9 @@
 ## Overview
 This project focuses on predicting sales for BigMart stores using advanced machine learning techniques. The predictive model leverages a dataset of over 85,000 records and utilizes XGBoost for accurate forecasting. The project also incorporates data preprocessing, exploratory data analysis (EDA), and deployment using MLOps. Additionally, Power BI is used for data visualization to enhance insights presentation.
 
+![Screenshot 2025-03-28 180028](https://github.com/user-attachments/assets/2de9e49d-2ec3-4d0f-b21b-0499af52d84f)
+
+
 ## Features
 - **Predictive Modeling**: Developed using XGBoost to forecast sales with high accuracy.
 - **Data Preprocessing**: Includes imputation, encoding, and normalization to improve model performance.
